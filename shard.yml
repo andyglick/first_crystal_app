@@ -1,0 +1,13 @@
+name: first_crystal_app
+version: 0.1.0
+
+authors:
+  - Andy Glick <andyglick@gmail.com>
+
+targets:
+  first_crystal_app:
+    main: src/first_crystal_app.cr
+
+crystal: 0.27.2
+
+license: MIT
